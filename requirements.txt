@@ -1,0 +1,8 @@
+# --- بک‌اند ---
+fastapi
+uvicorn[standard]==0.29.0
+python-multipart
+pillow
+numpy
+torch
+torchvision
