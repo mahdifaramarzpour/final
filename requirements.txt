@@ -1,8 +1,14 @@
-# --- بک‌اند ---
-fastapi
-uvicorn[standard]==0.29.0
-python-multipart
+# ---- فرانت‌اند (Streamlit) ----
+streamlit
+requests
 pillow
 numpy
+pandas
+matplotlib
+
+# ---- بک‌اند (FastAPI) ----
+fastapi
+uvicorn[standard]
+python-multipart
 torch
 torchvision
